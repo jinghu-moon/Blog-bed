@@ -1,2 +1,2 @@
 # Blog-bed
-我的图床
+我的 PicGo 图床
